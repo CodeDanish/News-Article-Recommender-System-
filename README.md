@@ -85,7 +85,7 @@ Copy code
 
 set FLASK_APP=app.py
 
-set FLASKENV=development
+set FLASK_ENV=development
 
 flask run
 
