@@ -1,4 +1,5 @@
-# 📰📚 News & Article Recommender System 
+# 📰📚 News & Article Recommender System | 🗞️🖋️ Search, Discover, and Read
+
 
 ![Recommender System](https://img.shields.io/badge/Recommendation-System-brightgreen?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Powered-yellow?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
