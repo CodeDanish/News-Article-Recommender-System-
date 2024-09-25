@@ -117,16 +117,6 @@ Then visit http://127.0.0.1:5000/ in your browser.
 
 ---
 
-## 🎥 Demo
-
-Explore the **News & Article Recommender System** live:
-
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Launch_App-orange?style=for-the-badge)](https://your-app-link.com)
-
-![App Screenshot](https://your-image-link-here.com/app_screenshot.png)
-
----
-
 ## 🤝 Contributions
 
 Contributions are highly appreciated! If you'd like to improve the recommender system, please feel free to fork the repository and submit a pull request. For significant changes, open an issue to discuss your ideas.
