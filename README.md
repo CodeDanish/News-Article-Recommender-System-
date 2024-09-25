@@ -94,15 +94,17 @@ The system evaluates several algorithms, including:
 If you've developed a web interface for the recommender system, you can run the Flask app:
 
 ```bash
-
-Copy code
-
 set FLASK_APP=app.py
+```
 
+```bash
 set FLASK_ENV=development
+```
 
+```bash
 flask run
 ```
+
 Then visit http://127.0.0.1:5000/ in your browser.
 
 ---
